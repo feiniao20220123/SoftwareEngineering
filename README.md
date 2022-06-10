@@ -1,0 +1,10 @@
+功能描述：
+测算一个8×8的棋盘上有一个马初始位置为(a,b)，他想跳到(c,d)，问是否可以？如果可以，最少要跳几步？
+接口原型：
+具体原型类
+开环境版本
+pythen
+测试环境说明
+pythen
+NS流程图
+![图片](https://user-images.githubusercontent.com/105999105/173031803-ee2182bd-16af-4971-bef8-942a1e2ebe4d.png)
